@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSort.js" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e05c20a-65ff-41fa-b1c7-4f089a85402d" name="Default Changelist" comment="" />
+    <list default="true" id="1e05c20a-65ff-41fa-b1c7-4f089a85402d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion 08 - Højere ordens funktioner/lektion 8.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion 08 - Højere ordens funktioner/lektion 8.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,15 +18,41 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSort.js">
+            <entry file="file://$PROJECT_DIR$/Lektion 14 - Express/Opgave 14.1/opgave 14.1.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                <state relative-caret-position="30">
+                  <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-1.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -30,14 +60,19 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSortString.js">
+            <entry file="file://$PROJECT_DIR$/Lektion 14 - Express/express/opgave14.1.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="14" selection-start-column="14" selection-end-column="14" />
+                <state relative-caret-position="150">
+                  <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Lektion 14 - Express/express/fetch POST.js">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -47,58 +82,149 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSort.js" />
         <option value="$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSortString.js" />
+        <option value="$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver/Opgave.js" />
+        <option value="$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver/OpgaveHund.js" />
+        <option value="$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver/Hund.js" />
+        <option value="$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver/OpgavePersons.js" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Asynkron/index.js" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/opgave.html" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave.js" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/opgave11-1.html" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave 11-2.js" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave 11-3.html" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave 11-2.html" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-2.html" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-3.html" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-1.js" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-2.js" />
+        <option value="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-3.js" />
+        <option value="$PROJECT_DIR$/Lektion 08 - Højere ordens funktioner/lektion 8.js" />
+        <option value="$PROJECT_DIR$/Lektion 14 - Express/express/opgave14.1.js" />
+        <option value="$PROJECT_DIR$/Lektion 14 - Express/Opgave 14.1/opgave 14.1.js" />
       </list>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-1" />
     <option name="width" value="1366" />
     <option name="height" value="384" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="3.Semester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3.Semester" type="462c0819:PsiDirectoryNode" />
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="3.Semester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3.Semester" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScript introduktion" type="462c0819:PsiDirectoryNode" />
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 11 - Asynkron programmering" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="3.Semester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3.Semester" type="462c0819:PsiDirectoryNode" />
-              <item name="Lektion 1 Opgaver" type="462c0819:PsiDirectoryNode" />
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 11 - Asynkron programmering" type="462c0819:PsiDirectoryNode" />
+              <item name="Opgaver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 12 - JSON, HTTP og RESTful Web Services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 13 - Node.js og Cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 13 - Node.js og Cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="fil-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 13 - Node.js og Cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="moduler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 14 - Express" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 14 - Express" type="462c0819:PsiDirectoryNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 14 - Express" type="462c0819:PsiDirectoryNode" />
+              <item name="Opgave 14.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion 14 - Express" type="462c0819:PsiDirectoryNode" />
+              <item name="url-server-express" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553681240563" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/node-v10.15.2-linux-x64/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver" />
       <recent name="$PROJECT_DIR$/Lektion 1 Opgaver" />
     </key>
   </component>
@@ -114,17 +240,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.bubbleSortString.js">
-    <configuration name="bubbleSortString.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSortString.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.opgave 14.1.js">
+    <configuration name="Opgave11-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="bubbleSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSort.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Opgave11-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="fetch POST.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lektion 14 - Express/express/fetch POST.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave 14.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lektion 14 - Express/Opgave 14.1/opgave 14.1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="opgave14.1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lektion 14 - Express/express/opgave14.1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.bubbleSortString.js" />
-        <item itemvalue="Node.js.bubbleSort.js" />
+        <item itemvalue="Node.js.opgave 14.1.js" />
+        <item itemvalue="Node.js.opgave14.1.js" />
+        <item itemvalue="Node.js.fetch POST.js" />
+        <item itemvalue="Node.js.Opgave11-2.js" />
+        <item itemvalue="Node.js.Opgave11-1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -145,34 +283,93 @@
       <workItem from="1548963031635" duration="155000" />
       <workItem from="1548964316465" duration="210000" />
       <workItem from="1549016430922" duration="1988000" />
+      <workItem from="1551797243886" duration="454000" />
+      <workItem from="1551797728318" duration="205000" />
+      <workItem from="1551797953247" duration="75000" />
+      <workItem from="1551862293764" duration="5500000" />
+      <workItem from="1551944376905" duration="112000" />
+      <workItem from="1551961478789" duration="18000" />
+      <workItem from="1552030659734" duration="1383000" />
+      <workItem from="1552033965516" duration="35000" />
+      <workItem from="1552034127563" duration="7432000" />
+      <workItem from="1552156108419" duration="721000" />
+      <workItem from="1553676330750" duration="4253000" />
+      <workItem from="1553681530205" duration="624000" />
+      <workItem from="1553768986066" duration="42000" />
+      <workItem from="1553769115708" duration="86000" />
+      <workItem from="1553769417101" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2386000" />
+    <option name="totallyTimeSpent" value="23353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24571854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3121212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32954547" />
+      <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.32419354" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.32763976" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32954547" />
+      <window_info anchor="right" id="Key Promoter X" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2931818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32954547" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.32419354" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.32763976" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32954547" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -191,9 +388,269 @@
     <entry file="file://$PROJECT_DIR$/Lektion 1 Opgaver/bubbleSortString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Constructor/arrow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Class notation og Polymorfi/person2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt 2 - Yatzy/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver/kat.js" />
+    <entry file="file://$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Class notation og Polymorfi/kat.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Class notation og Polymorfi/polymorfi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver/Hund.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 3 - Yatzy 2.0/Opgave_3.3_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Asynkron/langvarig2Async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Asynkron/langvarig2AsyncForOf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Asynkron/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Asynkron/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Asynkron/opgaver11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Asynkron/langvarig2PromiseAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 10 - Prototyper, Constructor og Polymorfi/Opgaver/OpgavePersons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 08 - Højere ordens funktioner/lektion 8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" selection-start-line="11" selection-start-column="2" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-column="2" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 12 - JSON, HTTP og RESTful Web Services/HTTP/node_modules/node-fetch/lib/index.mjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 12 - JSON, HTTP og RESTful Web Services/HTTP/fetch GET.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 13 - Node.js og Cloud/fil-server/opgave13.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/opgave11-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 14 - Express/Opgave 14.1/opgave 14.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 11 - Asynkron programmering/Opgaver/Opgave11-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 14 - Express/express/opgave14.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion 14 - Express/express/fetch POST.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>3.Semester</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

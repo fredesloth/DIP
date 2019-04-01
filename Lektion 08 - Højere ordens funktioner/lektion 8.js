@@ -1,7 +1,7 @@
 // opgave 2.4 (bruge til 8.2)
-let p1 = {name: "Frede", email: "fre@gmail.com", mobile: "+4525465501"};
-let p2 = {name: "Sissel", email: "sis@gmail.com", mobile: "+3012345678"};
-let p3 = {name: "Julie", email: "ju@gmail.com", mobile: "+4560173533"};
+let p1 = {name: "zebra", email: "fre@gmail.com", mobile: "+4525465501"};
+let p2 = {name: "odense", email: "sis@gmail.com", mobile: "+3012345678"};
+let p3 = {name: "aeb", email: "ju@gmail.com", mobile: "+4560173533"};
 let p4 = {name: "Torben", email: "tor@gmail.com", mobile: "+2587654321"};
 //Opgave 8.2
 let persons = [p1, p2, p3, p4];
